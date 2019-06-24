@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "material:black": [0, "292D3E"],
+    "material:red": [203, "F07178"],
+    "material:purple": [127, "C792EA"],
+    "material:blue": [33, "82AAFF"],
+    "material:cyan": [38, "89DDFF"],
+    "material:green": [71, "C3E88D"],
+    "material:yellow": [227, "FFCB6B"],
+    "material:gray": [247, "959DCB"],
+    "material:white": [255, "FFFFFF"]
+  }
+}

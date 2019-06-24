@@ -1,2 +1,2 @@
-!bin
-vim/bundle/
+.DS_Store
+.idea/

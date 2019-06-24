@@ -1,0 +1,19 @@
+{
+	"groups": {
+		"background":           {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"active_window_status": {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"window_status":        {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"activity_status":      {"fg": "material:yellow",   "bg": "material:black",    "attrs": []},
+		"bell_status":          {"fg": "material:red",      "bg": "material:black",    "attrs": []},
+		"window":               {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"window:divider":       {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"window:current":       {"fg": "material:black",    "bg": "material:green",    "attrs": []},
+		"window_name":          {"fg": "material:black",    "bg": "material:green",    "attrs": []},
+		"session":              {"fg": "material:black",    "bg": "material:yellow",   "attrs": []},
+		"session:prefix":       {"fg": "material:black",    "bg": "material:red",      "attrs": []},
+		"date":                 {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"time":                 {"fg": "material:gray",     "bg": "material:black",    "attrs": []},
+		"hostname":             {"fg": "material:black",    "bg": "material:purple",   "attrs": []},
+		"time:divider":         {"fg": "material:gray",     "bg": "material:black",    "attrs": []}
+	}
+}
